@@ -5,7 +5,7 @@ The website was created using HTML and CSS. It provides information on search en
 
 ## Getting Started
 
-To view the website, simply open the `index.html` file in a web browser. The CSS styles are defined in the `style.css` file, which is linked to the HTML file through a `<link>` tag in the document head.
+To view the website, simply open the following link  https://djam88.github.io/HoriSEOan-Your-Online-presence-solution/ in a web browser. The CSS styles are defined in the `style.css` file, which is linked to the HTML file through a `<link>` tag in the document head.
 
 ## Accessibility
 
